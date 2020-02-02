@@ -9,7 +9,10 @@ Matériels utilisés :
 
 a) Without a microcontroller
 
-![Schéma électronique exercice 1](https://github.com/institut-galilee/2020-SmartHomeJA/edit/master/lab/1/excercise/1/img/exercice1_1_schema.png)
+<img src="./img/exercice1_1_schema.png" alt="Schéma électrique exercice1_1"/>
+<img src="./img/exercice1_1.png" alt="Photo exercice1_1"/>
 
-<img src="./img/exercice1_1_schema.png" alt="My cool logo"/>
 b) With a microcontroller
+
+<img src="./img/exercice1_2_schema.png" alt="Schéma électrique exercice1_2"/>
+<img src="./img/exercice1_2.png" alt="Photo exercice1_2"/>
