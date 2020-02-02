@@ -9,6 +9,6 @@ Matériels utilisés :
 
 a) Without a microcontroller
 
- ![alt Ex1_1_schema](/img/exercice1_1_schema.png)
+![Screenshot](/img/exercice1_1_schema.png)
 
 b) With a microcontroller
