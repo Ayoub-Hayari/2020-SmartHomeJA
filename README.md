@@ -6,12 +6,13 @@ This is the official template for student's projects
   Avec l'essor des objets de plus en plus connectés, de nombreuses personnes aimeraient pourvoir connecter des objets courants afin d'amener de la praticité et de la facilité dans leur quotidien. C'est à partir de cette constatation que le terme de la "maison connectée" est apparu.	
 	De nous jours, de plus en plus de maisons deviennent connectées grâce à la domotique. Très longtemps chère et lourde à mettre en place, la domotique a su s'imposer et est, aujourd'hui, présent dans de nombreux foyers. 
   
-	La sécurité, la communication ou encore la l'économie d'énergie sont des exemples de domaines que touche la domotique.
-	La maison intelligente a pour objectif de faciliter les actions du quotidien, d'automatiser des tâches, d'avoir un foyer plus sécurisé et de réduire son impact écologique.
+La sécurité, la communication ou encore la l'économie d'énergie sont des exemples de domaines que touche la domotique.
+	
+La maison intelligente a pour objectif de faciliter les actions du quotidien, d'automatiser des tâches, d'avoir un foyer plus sécurisé et de réduire son impact écologique.
   
-	Aujourd'hui, le marché de la maison connectée est en plein essor. On estime à 2 milliard d'euros le chiffre d'affaire engendré par les objets connectés dans les maisons qui représente 5,2 millions d'objets. Ces deux  données suivent une progression à deux chiffres.
+Aujourd'hui, le marché de la maison connectée est en plein essor. On estime à 2 milliard d'euros le chiffre d'affaire engendré par les objets connectés dans les maisons qui représente 5,2 millions d'objets. Ces deux  données suivent une progression à deux chiffres.
   
-	Au vue de la croissance dans ce domaine, de nombreux acteurs proposent de connecter sa maison. Cette connexion passe par tous les objets du quotidien. De ce fait, des entreprises d'électroménagers, de jardinage, de bricolage ou encore d'électronique proposent des produits et services afin de rendre intelligente votre maison. A l'instar de Castorama, Darty ou Verisure  qui proposent respectivement des portails, de l'électroménager et des alarmes connectés.
+Au vue de la croissance dans ce domaine, de nombreux acteurs proposent de connecter sa maison. Cette connexion passe par tous les objets du quotidien. De ce fait, des entreprises d'électroménagers, de jardinage, de bricolage ou encore d'électronique proposent des produits et services afin de rendre intelligente votre maison. A l'instar de Castorama, Darty ou Verisure  qui proposent respectivement des portails, de l'électroménager et des alarmes connectés.
 	
   Ce boom des objets connectés dans les maisons à contraint de mettre en place des normes permettant de garantir la sécurité des systèmes ou encore de protéger les données privées. L'organisation internationale de normalisation se charge de mettre en place des nouvelles normes concernant les objets connectés, en particulier des normes ISO. Nous avons par exemple la norme ISO/IEC 30141 qui permet d'établir une architecture de référence normalisée de manière internationale. Afin de proposer un vocabulaire commun, des schémas conceptuels réutilisables et les meilleures pratiques du secteur. Ou encore la norme ISO/IEC 27701 garantissant la protection des données personnelles.
 	
