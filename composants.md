@@ -1,5 +1,5 @@
 <h1>Liste des composants</h1>
-<u> Pour tous les éléments : </u> Micro contrôleur Arduino Mega 2560
+<u> Pour tous les éléments : </u> <p> Micro contrôleur Arduino Mega 2560 </p>
 <u> Portail automatique / Porte de garage / Volets automatiques</u>
 <ul> 
 	<li>Moteur pas à pas</li>
