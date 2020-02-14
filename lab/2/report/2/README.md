@@ -1,5 +1,3 @@
-Control a LED Brightness with a variable resistance.
-
 Matériels utilisés : 
 - Un buzze
 - Une plaquette
