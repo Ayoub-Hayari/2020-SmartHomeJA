@@ -1,5 +1,9 @@
+- Communication Arduino pour faire varier la fréquence d'un Buzzer passif
+
+code dans le fichier Code1.ino
+
 Matériels utilisés : 
-- Un buzze
+- Un buzzer passif
 - Une plaquette
 - Un micro contrôleur
 - Deux câbles
@@ -9,4 +13,19 @@ Matériels utilisés :
 <img src="./img/variationFrequence2_2.png" alt="Test avec variation de fréquence"/>
 
 
-code dans le fichier Code1.ino
+
+- LDR
+
+code dans le fichier Code2.ino
+
+Matériels utilisés : 
+- Une LDR
+- Une plaquette
+- Un micro contrôleur
+- Trois câbles
+- Une résistance 220 Ohms
+
+
+<img src="./img/schemaLDR.png" alt="Schéma électrique LDR"/>
+<img src="./img/branchementLDR.jpg" alt="Branchement LDR"/>
+<img src="./img/testLDR.png" alt="Test LDR"/>
