@@ -13,7 +13,7 @@ Matériels utilisés :
 
 
 Code dans le fichier Code1.ino :
-```|
+```C
 const byte buzzer = 13;
 
 void setup() {
