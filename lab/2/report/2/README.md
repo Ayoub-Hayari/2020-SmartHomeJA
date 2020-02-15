@@ -40,7 +40,7 @@ Le principe est de ce branchement est d'envoyer au buzze la fréquence qu'il doi
 
 - LDR
 
-Code dans le fichier Code2.ino
+
 
 Matériels utilisés : 
 - Une LDR
@@ -53,6 +53,24 @@ Matériels utilisés :
 <img src="./img/schemaLDR.png" alt="Schéma électrique LDR"/>
 <img src="./img/branchementLDR.jpg" alt="Branchement LDR"/>
 <img src="./img/TestLDR.png" alt="Test LDR"/>
+
+Code dans le fichier Code2.ino : 
+
+```C
+int sensorPin = A0; // select the input pin for LDR
+
+int sensorValue = 0; // variable to store the value coming from the sensor
+void setup() {
+Serial.begin(9600); //sets serial port for communication
+}
+void loop() {
+sensorValue = analogRead(sensorPin); // read the value from the sensor
+Serial.println(sensorValue); //prints the values coming from the sensor on the screen
+
+delay(100);
+
+}
+```
 
 Le principe est d'afficher la luminosité ambiante grâce au LDR. Le LDR capte la luminosité par un changement de potentiel et la retranscit par une valeur numérique. Dès que la luminosité augmente, l'indicateur augmente, dès qu'elle diminue, l'indicateur diminue.
 
