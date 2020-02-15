@@ -1,6 +1,5 @@
 - Communication Arduino pour faire varier la fréquence d'un Buzzer passif
 
-Code dans le fichier Code1.ino
 
 Matériels utilisés : 
 - Un buzzer passif
@@ -11,6 +10,31 @@ Matériels utilisés :
 <img src="./img/schema2_2.png" alt="Schéma électrique Buzzer"/>
 <img src="./img/branchement2_2.jpg" alt="branchement Buzzer"/>
 <img src="./img/variationFrequence2_2.png" alt="Test Buzzer"/>
+
+
+Code dans le fichier Code1.ino :
+```|
+const byte buzzer = 13;
+
+void setup() {
+  // initialize serial
+  Serial.begin(9600);
+  pinMode(buzzer, OUTPUT); 
+}
+
+    
+
+void loop() {
+  // if there's any serial available, read it:
+  while (Serial.available() > 0) {
+    //On lit l'entrée en temps que chaîne de caractères
+     String b = Serial.readString()  ;
+    Serial.println(b.toInt());
+    //On fait sonner le buzzer avec l'entrée
+    tone(buzzer, b.toInt());    
+  }
+}
+```
 
 Le principe est de ce branchement est d'envoyer au buzze la fréquence qu'il doit jouer. Quand il reçoit une nouvelle fréquence, il la modifie et la joue en continue.
 
