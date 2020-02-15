@@ -12,9 +12,9 @@ Nous allons prendre l'exemple du moteur pas à pas. En effet, comme nous allons 
 Dans notre projet, nous allons utiliser plusieurs moteurs pas à pas. Notamment un pour l'overture et la fermeture du portail. 
 Ainsi, notre moteur fonctionnera avec une télécommande infrarouge, un récepteur infrarouge et une led afin d'ouvrir et de fermer le portail comme pour un portail élétrique classique. Afin de faciliter les branchements, nous allons utiliser un Arduino Mega, une breadboard et des câbles.
 
-Le principe est simple quand nous appuyons sur la touche '>' de la télécommande le moteur s'actionne et tourne dans le sens horaire pendant 3 secondes simulant l'ouverture du portail. Quand nous appuyons sur '<' le moteur s'actionne et tourne dans le sens anti-horaire pendant 3 secondes simulant la fermeutre du portail. Pendant l'ouverture et la fermeture du portail, une led clignote afin d'avertir d'un mouvement du portail.
+Le principe est simple quand nous appuyons sur la touche '>' de la télécommande le moteur s'actionne et tourne dans le sens horaire pendant 3 secondes simulant l'ouverture du portail. Quand nous appuyons sur '<' le moteur s'actionne et tourne dans le sens anti-horaire pendant 3 secondes simulant la fermeture du portail. Pendant l'ouverture et la fermeture du portail, une led clignote afin d'avertir d'un mouvement du portail.
 
-Notons que deux ouvertures ou deux fermetures successives ne peuvent pas se faire, pour eviter l'ouverture ou la fermueture du portail dans une zone où il ne devrait pas se trouver.
+Notons que deux ouvertures ou deux fermetures successives ne peuvent pas se faire afin eviter l'ouverture ou la fermueture du portail dans une zone où il ne devrait pas se trouver.
 
 ![Schéma moteur pas à pas](./sketch.png?raw=true)
 
