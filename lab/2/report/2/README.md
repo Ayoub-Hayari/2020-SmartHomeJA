@@ -1,4 +1,4 @@
-- Communication Arduino pour faire varier la fréquence d'un Buzzer passif
+# Communication Arduino pour faire varier la fréquence d'un Buzzer passif
 
 
 Matériels utilisés : 
@@ -38,7 +38,7 @@ void loop() {
 
 Le principe est de ce branchement est d'envoyer au buzze la fréquence qu'il doit jouer. Quand il reçoit une nouvelle fréquence, il la modifie et la joue en continue.
 
-- LDR
+# LDR
 
 
 
