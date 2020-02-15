@@ -16,6 +16,8 @@ Le principe est simple quand nous appuyons sur la touche '>' de la télécommand
 
 Notons que deux ouvertures ou deux fermetures successives ne peuvent pas se faire, pour eviter l'ouverture ou la fermueture du portail dans une zone où il ne devrait pas se trouver.
 
+![Branchement moteur pas à pas](./schematic.png?raw=true)
+
 Code :
 
 ```C
