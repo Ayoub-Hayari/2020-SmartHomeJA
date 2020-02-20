@@ -8,7 +8,7 @@
 	<li>Récepteur IR Iduino ST1089</li>
 	<li>Télécommande infrarouge</li>
 	<li>Câbles</li>
-	<li>Capteur d'intensité lumineuse</li>
+	<li>Capteur d'intensité lumineuse (seulement pour les volets)</li>
 	<li>Breadboard</li>
 </ul>
 <h6> Porte d'entrée </h6>
