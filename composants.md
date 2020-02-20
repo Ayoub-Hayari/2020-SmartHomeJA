@@ -4,7 +4,7 @@
 <h6> Portail automatique / Porte de garage / Volets automatiques</h6>
 <ul> 
 	<li>Moteur pas à pas</li>
-	<li>Leds</li>
+	<li>Leds (seulement pour le portail)</li>
 	<li>Récepteur IR Iduino ST1089</li>
 	<li>Télécommande infrarouge</li>
 	<li>Câbles</li>
