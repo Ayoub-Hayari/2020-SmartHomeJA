@@ -1,4 +1,4 @@
-<h1>Liste des composants</h1>
+<h1>Liste des composants (électroniques)</h1>
 <h6> Pour tous les éléments : </h6> 
 <p> Micro contrôleur Arduino Mega 2560 </p>
 <h6> Portail automatique / Porte de garage / Volets automatiques</h6>
