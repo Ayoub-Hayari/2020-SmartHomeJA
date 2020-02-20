@@ -45,6 +45,14 @@
 	<li> Câbles </li>
 	<li>Récepteur IR Iduino ST1089</li>
 	<li>Télécommande infrarouge</li>
+	<li>Breadboard</li>
 </ul>
-
+<h6> Affichage température/humidité et activation de la climatisation</h6>
+<ul> 
+	<li> DC Motor </li>
+	<li> Câbles </li>
+	<li>Module LCD et palme pour ventilateur</li>
+	<li>Breadboard</li>
+	<li>Capteur température/humidité DHT11</li>
+</ul>
 
