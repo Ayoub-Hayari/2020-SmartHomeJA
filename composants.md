@@ -21,10 +21,24 @@
 	<li>Câbles</li>
 	<li>Breadboard</li>
 </ul>
-<h6> Eclairage </h6>
-<p>A COMPLETER</p>
+<h6> Eclairage (avec application Android)</h6>
+<ul> 
+	<li>SmartPhone sous Android</li>
+	<li>LEDs</li>
+	<li>HC06 Bluetooth Émetteur-Récepteur RF Module</li>
+	<li>Câbles</li>
+	<li>Breadboard</li>
+</ul>
 <h6> Alarme connectée </h6>
-<p>A COMPLETER</p>
+<ul> 
+	<li>Buzzer Passif</li>
+	<li>LEDs</li>
+	<li>Module LCD</li>
+	<li>Keypad</li>
+	<li>HC-SR501 Détecteur de mouvement</li>
+	<li>Câbles</li>
+	<li>Breadboard</li>
+</ul>
 <h6> Arrosage automatique </h6>
 <ul> 
 	<li> Pompe à eau </li>
