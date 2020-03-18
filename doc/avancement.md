@@ -8,6 +8,8 @@ Ce que nous avons fait :
   - Intégrer les délimitations des zones (jardin, chambre, cuisine, salon et garage) avec des cloisons;
   - Peindre la maison en blanc et en marron;
   - Intégrer la goutière pour l'écoulement de l'eau de l'arrosage automatique.
+  
+  <img src="./img/img1.jpg" alt=""/>
 
 - Construction des éléments qui sont pilotés par les composants élétroniques (éléments en mouvement)
   - Un portail coulissant;
@@ -33,8 +35,9 @@ Ce que nous avons fait :
 
 - Code Arduino faisant fonctionner les composants
   
-  <img src="./img/exercice1_2_schema.png" alt=""/>
-  
+ <img src="./img/img2.jpg" alt=""/>
+ <img src="./img/img3.jpg" alt=""/>
+
   
   Ce qui nous reste à faire : 
   
