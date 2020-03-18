@@ -33,7 +33,7 @@ Ce que nous avons fait :
   
 - Application Android gérant l'arrosage automatique et les lumières dees différentes zones de la maison
 
-  <img src="./img/im4.png" alt=""/>
+  <img src="./img/img4.png" alt=""/>
 
 - Code Arduino faisant fonctionner les composants
   
