@@ -44,4 +44,5 @@ Ce que nous avons fait :
   - Tester tous les fonctionnalités;
   - Commenter et optimiser le code;
   - Configurer les moteurs pas à pas pour avoir un mouvement des ouvertures le plus précis possible.
+  - Mettre les décors
   
