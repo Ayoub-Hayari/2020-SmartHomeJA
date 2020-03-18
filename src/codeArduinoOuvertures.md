@@ -1,5 +1,6 @@
 Code de l'Arduino Mega 1 qui va gérer toutes les ouvertures de la maison (version non finale du code)
 
+```C
     #include <IRremote.h>
     #include <Stepper.h>
     #include <SPI.h>
@@ -189,3 +190,4 @@ Code de l'Arduino Mega 1 qui va gérer toutes les ouvertures de la maison (versi
           }
         }
 }
+ ```
