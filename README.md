@@ -75,7 +75,7 @@ Notons que d'autres groupes de IOT ont déjà réalisé une maison connecté, ma
 
 **Diagramme d'utilisation** décrivant les actions réalisables par l'utilisateur et par le système de contrôle de la maison.
 
- <img src="./doc/img/diagrammeUML.png" alt=""/>
+ <img src="./doc/img/useCaseUML.png" alt=""/>
  
 ## Diagramme de Grantt
 
