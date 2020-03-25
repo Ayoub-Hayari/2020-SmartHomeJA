@@ -74,7 +74,10 @@ Notons que d'autres groupes de IOT ont déjà réalisé une maison connecté, ma
 
 ### Codes
 
-[Voir code Application/Température/Humidité/Eclairage/Arrosage](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/src/codeAduinoApp_TempHumi_Alarme.md)
-[Voir code des ouvertures de la maison](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/src/codeArduinoOuvertures.md)
+[Voir code Application/Température/Humidité/Eclairage/Arrosage](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/src/codeAduinoApp_TempHumi_Alarme.md)  
+  
+[Voir code des ouvertures de la maison](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/src/codeArduinoOuvertures.md)  
+
 [Voir code de l'application](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/src/codeApplication.md)
+  
 
