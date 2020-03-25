@@ -34,7 +34,7 @@ Mit bout à bout les dépenses augmentent très vite, mais un individu peut déc
 
 ## Etude fonctionnelle
 
-### Context 
+### Contexte
 
 Aujourd'hui beaucoup de personnes désirent une maison connectée. On ne déroge pas à la règle.  
 
