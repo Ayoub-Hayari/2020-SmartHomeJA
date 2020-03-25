@@ -40,7 +40,7 @@ Aujourd'hui beaucoup de personnes désirent une maison connectée. On ne déroge
 
 Cette idée est venue de notre quotidien. 
 
-En effet, nous avons tous envie d'appuyer sur un simple bouton pour ouvrir notre portail, d'être rassuré quant à la sécurisation de notre maison quand nous sortons de chez nous, de reduire notre impact écologique et énergétique ou encore de gérer différents systèmes à distance.   
+En effet, nous avons tous envie d'appuyer sur un simple bouton pour ouvrir notre portail, d'être rassuré quant à la sécurisation de notre maison lorsque nous sortons de chez nous, de reduire notre impact écologique et énergétique ou encore de gérer différents systèmes à distance.   
 
 C'est dans cette idée que nous avons voulu contruire notre propre maison connectée.  
 
