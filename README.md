@@ -44,6 +44,15 @@ En effet, nous avons tous envie d'appuyer sur un simple bouton pour ouvrir notre
 
 C'est dans cette idée que nous avons voulu contruire notre propre maison connectée.  
 
+### Les débouchés
+
+C'est donc à partir de ces observations que nous avons commencé à regarder ce qu'on aimerait intégrer dans notre projet.
+On voulais pouvoir gérer facilement et rapidement les ouvertures, intégrer des choses originales comme un arrosage automatique piloté avec une application android, ou encore amener du confort à l'habitation.  
+
+De plus, on voulait réaliser des choses qui serait reproductible à l'échelle humaine. Ainsi, il faut avoir une vision humaine. En effet, la plupart d'entre nous ne veulent pas qu'une fonctionnalité soit trop onéreuse ou trop complexe à mettre en place.
+
+Il a fallu donc refléchir à ces apects avant de nous lancer dans le projet.
+
 ## Nos objectifs 
 	
 Afin de réaliser la maquette nous allons utiliser des composants très peu onéreux et donc accessibles de tous.  
