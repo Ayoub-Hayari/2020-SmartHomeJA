@@ -2,6 +2,7 @@ Ce document traite de l'état d'avancement du projet de la "Maison connectée" d
 - Etape 1 : Préparation du matériel
 	Pour réaliser notre maquette, nous avons fait le choix d'acheter tous les composants nous mêmes via Amazon, Castorama et Action. Il y a deux raisons à cela : nous avions envie de garder notre maquette intacte à la fin du semestre et nous avons besoin d'autres composants ou en plus grande quantité que les composants qui nous ont été fournis.
 	2  types de matériaux :
+	
 	A: Les composants électroniques : 
 	
 	- 2 microcontrôleurs Elegoo Mega 2560 r3 (compatible Arduino);
