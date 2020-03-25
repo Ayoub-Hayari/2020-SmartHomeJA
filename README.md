@@ -1,4 +1,4 @@
-# Rapport du projet d'Internet des Objets : Maison connectée
+<span align="center"> # Maison connectée </span>
 
 ## Description du projet
 
