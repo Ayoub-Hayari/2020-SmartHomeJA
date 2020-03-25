@@ -47,7 +47,7 @@ C'est dans cette idée que nous avons voulu contruire notre propre maison connec
 ### Les débouchés
 
 C'est donc à partir de ces observations que nous avons commencé à regarder ce qu'on aimerait intégrer dans notre projet.
-On voulais pouvoir gérer facilement et rapidement les ouvertures, intégrer des choses originales comme un arrosage automatique piloté avec une application android, ou encore amener du confort à l'habitation.  
+On voulais pouvoir gérer facilement et rapidement les ouvertures, intégrer des choses originales comme un arrosage automatique piloté avec une application Android, ou encore amener du confort à l'habitation.  
 
 De plus, on voulait réaliser des choses qui serait reproductible à l'échelle humaine. Ainsi, il faut avoir une vision humaine. En effet, la plupart d'entre nous ne veulent pas qu'une fonctionnalité soit trop onéreuse ou trop complexe à mettre en place.
 
