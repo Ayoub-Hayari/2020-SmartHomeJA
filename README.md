@@ -83,7 +83,7 @@ Notons que d'autres groupes de IOT ont déjà réalisé une maison connecté, ma
 
 ## Diagramme de navigation de l'application Android
 
-**_Section en construction_**
+ <img src="./doc/img/navigationUML.png" alt=""/>  
 
 ## Avancement du projet
 
