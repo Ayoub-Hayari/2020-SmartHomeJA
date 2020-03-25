@@ -66,11 +66,11 @@ Notons que d'autres groupes de IOT ont déjà réalisé une maison connecté, ma
 
 ### Avancement du projet
 
-[Voir l'avancement du projet](#)
+[Voir l'avancement du projet](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/avancement.md)
 
 ### Branchements des composants
 
-[Voir les branchements des microcontrôleurs](#)
+[Voir les branchements des microcontrôleurs](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/branchements.md)
 
 ### Codes
 
