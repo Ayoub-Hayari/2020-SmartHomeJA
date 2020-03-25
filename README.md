@@ -32,6 +32,18 @@ Ce boom des objets connectés dans les maisons à contraint de mettre en place d
  
 Mit bout à bout les dépenses augmentent très vite, mais un individu peut décider de prioriser certains objets connectés par rapport à d'autre. En effet, certaine personne n'ont pas le besoin ou l'envie d'un portail connecté, par exemple.
 
+## Etude fonctionnelle
+
+### Context 
+
+Aujourd'hui beaucoup de personnes désirent une maison connectée. On ne déroge pas à la règle.  
+
+Cette idée est venue de notre quotidien. 
+
+En effet, nous avons tous envie d'appuyer sur un simple bouton pour ouvrir notre portail, d'être rassuré quant à la sécurisation de notre maison quand nous sortons de chez nous, de reduire notre impact écologique et énergétique ou encore de gérer différents systèmes à distance.   
+
+C'est dans cette idée que nous avons voulu contruire notre propre maison connectée.  
+
 ## Nos objectifs 
 	
 Afin de réaliser la maquette nous allons utiliser des composants très peu onéreux et donc accessibles de tous.  
