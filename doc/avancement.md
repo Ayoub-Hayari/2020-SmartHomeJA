@@ -2,7 +2,7 @@ Ce document traite de l'état d'avancement du projet de la "Maison connectée" d
 - Etape 1 : Préparation du matériel
 	Pour réaliser notre maquette, nous avons fait le choix d'acheter tous les composants nous mêmes via Amazon, Castorama et Action. Il y a deux raisons à cela : nous avions envie de garder notre maquette intacte à la fin du semestre et nous avons besoin d'autres composants ou en plus grande quantité que les composants qui nous ont été fournis.
 	2  types de matériaux :
-	A - Les composants électroniques : 
+	A :- Les composants électroniques : 
 		- 2 microcontrôleurs Elegoo Mega 2560 r3 (compatible Arduino);
 		- 2 modules LCD (16 x 2);
 		- 1 KeyPad (Clavier 4 x 4);
@@ -20,7 +20,7 @@ Ce document traite de l'état d'avancement du projet de la "Maison connectée" d
 		- 2 buzzers passifs
 		- 1 module sans fil Bluetooth HC-06;
 		- Des câbles (mâle/mâle, mâle/femelle, femelle/femelle) et des résistances (220 Ohms).
-	B- Les matériaux de construction : 
+	B:- Les matériaux de construction : 
 		- 3 plateau aggloméré 120 cm * 60 cm * 5 mm;
 		- Peintures (blanche, marron et grise);
 		- Fil transparent de nylon;
@@ -36,7 +36,7 @@ Ce document traite de l'état d'avancement du projet de la "Maison connectée" d
 		- Gazon synthétique;
 		- Brique de pierres rouge;
 		- Boulons, vis, rondelles, clous et de l'étain.
-	C - Outils utilisés : 
+	C :- Outils utilisés : 
 		- Tournes vis plats et cruciformes;
 		- Perceuse et forets;
 		- Cutter;
