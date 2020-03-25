@@ -25,7 +25,7 @@ Pour réaliser notre maquette, nous avons fait le choix d'acheter tous les compo
 	- 1 module sans fil Bluetooth HC-06;
 	- Des câbles (mâle/mâle, mâle/femelle, femelle/femelle) et des résistances (220 Ohms).
 	
-- B: Les matériaux de construction : 
+- B : Les matériaux de construction : 
 	- 3 plateau aggloméré 120 cm * 60 cm * 5 mm;
 	- Peintures (blanche, marron et grise);
 	- Fil transparent de nylon;
@@ -42,7 +42,7 @@ Pour réaliser notre maquette, nous avons fait le choix d'acheter tous les compo
 	- Brique de pierres rouge;
 	- Boulons, vis, rondelles, clous et de l'étain.
 	
--C: Outils utilisés : 
+- C : Outils utilisés : 
 	- Tournes vis plats et cruciformes;
 	- Perceuse et forets;
 	- Cutter;
@@ -68,7 +68,7 @@ Nous avons deux étages : l'étage du bas permet de stocker et de cacher tous le
 
 L'étage supérieur permet de voir toutes les actions. Le sol de l'étage peut se retirer afin de laisser apparaître tous les composants. Cela nous permet d'avoir un rendu esthétique tout gardant la possibilité de voir les branchements.   
 	
--5 zones distinctes : 
+- 5 zones distinctes : 
 	- Un salon;
 	- Un garage;
 	- Une chambre;
