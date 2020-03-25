@@ -1,4 +1,4 @@
-<span align="center"> # Maison connectée </span>
+# Maison connectée 
 
 ## Description du projet
 
