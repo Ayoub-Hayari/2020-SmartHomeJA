@@ -74,6 +74,7 @@ L'étage supérieur permet de voir toutes les actions. Le sol de l'étage peut s
 	- Une chambre;
 	- Une cuisine;
 	- Un jardin.
+	
 # Etape 3 : Construction de la maquette:
 
 - A : La maison : 
@@ -84,8 +85,9 @@ L'étage supérieur permet de voir toutes les actions. Le sol de l'étage peut s
 
 	Le jardin se compose aussi de deux étages. Celui inférieur permet d'effectuer les branchements. Dans le jardin, il y a notamment un arrosage automatique qui fonctionne grâce à un réservoir d'eau (un bidon de lessive) et une chute d'un rail de porte coulissante en aluminium. Dans le réservoir, nous avons inséré une pompe à eau permettant d'envoyer l'eau dans le rail grâce à un tuyau d'eau transparent. L'eau coule tout au long du rail grâce à une légère pente. Enfin l'eau s'évacue par deux trous au bout du rail reliés à deux tuyaux d'eau transparents qui achemine l'eau dans le réservoir.    
 	Ainsi, nous avons un système en boucle. Nous ne manquerons jamais d'eau pour arroser et nous n'avons pas de soucis de débit d'eau à gérer pour la pompe.  
-  <img src="./img/img10.jpg" alt=""/>
-  
+ 
+<img src="./img/img10.jpg" alt=""/>
+    
 # Etape 4 : Les finitions:  
 
 Nous avons fait le choix de peintre l'intégralité de la maquette. Le sol de la maison et un des murs de la maison sont peints en marron. L'arrosage automatique est peint en gris anthracite. Tout le reste de la maquette est peint en blanc.  
@@ -133,6 +135,5 @@ Nous avons effectué une longue période de tests. Ces tests imposaient de véri
 A la suite de ces tests, nous avons décelé des dysfonctionnements  que nous avons résolus. Par exemple, l'activation de plus de 3 moteurs pas à pas à la suite faisait disjoncter l'Elegoo Mega. Pour régler ce problème, nous sommes retournés dans le code. Nous avons fait le choix de mettre à "LOW" les moteurs à la fin de leur fonctionnement. En effet, ces derniers restait allumé mais en pas en fonctionnement.  
 
 De plus, nous avons configuré grâce à ces tests les moteurs pas à pas. En effet, il fallait configurer le temps d'action de chaque moteur en fonction de leur utilité. Par exemple, la porte d'entrée n'a pas le même temps de fonctionnement que le portail. 
-	
 
-
+ [Voir les étapes jour par jour de la construction de la maquette (Etapes : 3,4,5 et 7](#)
