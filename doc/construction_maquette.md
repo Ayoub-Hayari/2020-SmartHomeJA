@@ -38,6 +38,8 @@ Après l'achat des matériaux, on commence à construire la maison.
 
 <img src="./img/construction6.png" alt=""/>
 
+## Notes importantes
+
 Au rythme de 10 heures de travail par jour, nous arrivons à 90 heures de temps de travail pour la construction de la maquette.
 
 Il est important de noter que la construction de la maquette est la 'partie visible de l'iceberg'.   
