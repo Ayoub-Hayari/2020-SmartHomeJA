@@ -58,6 +58,7 @@ Pour réaliser notre maquette, nous avons fait le choix d'acheter tous les compo
 	- Ciseaux;
 	- Mètre;
 	- Crayons;
+	- Niveau;
 	- Règle.
 	
 # Etape 2 : Plan de la maquette :
