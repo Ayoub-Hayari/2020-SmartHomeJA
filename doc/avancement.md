@@ -137,4 +137,4 @@ A la suite de ces tests, nous avons décelé des dysfonctionnements  que nous av
 
 De plus, nous avons configuré grâce à ces tests les moteurs pas à pas. En effet, il fallait configurer le temps d'action de chaque moteur en fonction de leur utilité. Par exemple, la porte d'entrée n'a pas le même temps de fonctionnement que le portail. 
 
- [Voir les étapes jour par jour de la construction de la maquette (Etapes : 3,4,5 et 7)]((https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/construction_maquette.md))
+ [Voir les étapes jour par jour de la construction de la maquette (Etapes : 3,4,5 et 7)](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/construction_maquette.md)
