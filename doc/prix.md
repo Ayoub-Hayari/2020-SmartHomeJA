@@ -34,5 +34,5 @@ Dans ces tableaux est compté simplement les éléments que nous avons utilisé 
 En effet, plusieurs éléments ont été reçu en plus grande quantité, mais nous vous présentons simplement ce que nous avons utilisé afin de s'approcher au maximum du prix réel de la maquette.  
 
 De plus, nous avions déjà certains matériaux comme le fil, les patins de chaises en feutre, les stylos ou encore le silicone.
-Plus généralement, tous les composants présents dans **_l'étape 1 : Préparation du matériel_** de la page [avancement.md](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/avancement.md) et qui ne sont pas dans les tableaux sont des composants que nous possédions déjà.
+Plus généralement, tous les composants présents dans la page [composants.md](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/composants.md) et qui ne sont pas dans les tableaux sont des composants que nous possédions déjà.
 
