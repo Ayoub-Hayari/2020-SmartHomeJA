@@ -17,3 +17,21 @@
 - 2 buzzers passifs
 - 1 module sans fil Bluetooth HC-06;
 - Des câbles (mâle/mâle, mâle/femelle, femelle/femelle) et des résistances (220 Ohms).
+
+# Matériaux nécessaires
+
+- 3 plateau aggloméré 120 cm * 60 cm * 5 mm;
+- Peintures (blanche, marron et grise);
+- Fil transparent de nylon;
+- Colle;
+- Pâte à bois;
+- Tuyau à eau transparent;
+- Reste de rail en aluminium;
+- Patin de chaise en feutre;
+- Corps de stylo;
+- Silicone;
+- Engrenage (Pignons et crémaillères en plastique);
+- Equerres en acier;
+- Gazon synthétique;
+- Brique de pierres rouge;
+- Boulons, vis, rondelles, clous et de l'étain.
