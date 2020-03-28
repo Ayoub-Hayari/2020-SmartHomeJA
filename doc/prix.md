@@ -17,7 +17,7 @@ Ce document permet de détailler les achats pour ce projet
 
 | Matériaux | Quantité | Prix du lot |
 |:-----------|:--------:|-----------:|
-|Planches agglomérée|3|29.50€|
+|Planches agglomérées|3|29.50€|
 |Lot d'engrenages|1|7.99€|
 |Herbe synthétique|1|13.39€|
 |Peinture|||
