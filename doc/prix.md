@@ -11,7 +11,7 @@ Ce document permet de détailler les achats pour ce projet
 |HC-06|1|8.49€|
 |Câbles|200|15.08€|
 |Relais|1|1.60€|
-|Total||108€|
+|**Total**|108€|
 
 # Prix des matériaux
 
@@ -26,7 +26,7 @@ Ce document permet de détailler les achats pour ce projet
 |Equerres|||
 |Sachet de briques en pierre rouge|1|4.95€|
 |Boîtes de Boulons, vis et rondelles|4||
-|Total|||
+|**Total**||
 
 # Note importante
 
