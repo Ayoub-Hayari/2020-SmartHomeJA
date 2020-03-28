@@ -103,5 +103,5 @@ Notons que d'autres groupes de IOT ont déjà réalisé une maison connecté, ma
 
 [Voir code de l'application](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/src/codeApplication.md)
   
-# Prix des éléments
+## Prix des éléments
 [Voir le prix des éléments de la maquette](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/prix.md)
