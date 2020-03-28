@@ -8,16 +8,16 @@ Ce document permet de détailler les achats pour ce projet
 |Microcontrôleurs Elegoo Mega 2560 r3|1| 13.99€|
 |Moteurs pas à pas|4|11.20€|
 |Leds blanche|17|7.65€|
-|HC-06|1|8.49|
+|HC-06|1|8.49€|
 |Câbles|200|15.08€|
-|Relais|1|1.6€|
+|Relais|1|1.60€|
 |Total||108€|
 
 # Prix des matériaux
 
 | Matériaux | Quantité | Prix du lot |
 |:-----------|:--------:|-----------:|
-|Planches agglomérée|3|29.5€|
+|Planches agglomérée|3|29.50€|
 |Lot d'engrenages|1|7.99€|
 |Herbe synthétique|1|13.39€|
 |Peinture|||
