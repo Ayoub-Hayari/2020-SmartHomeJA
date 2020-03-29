@@ -84,6 +84,12 @@ Notons que d'autres groupes de IOT ont déjà réalisé une maison connecté, ma
 ## Diagramme de navigation de l'application Android
 
  <img src="./doc/img/navigationUML.png" alt=""/>  
+ 
+## Les composants 
+
+Afin de réaliser nous avons utilisé des composants électroniques mais aussi des matériaux de constructions.
+
+[Voir les composants](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/composants.md)
 
 ## Avancement du projet
 
@@ -102,6 +108,6 @@ Notons que d'autres groupes de IOT ont déjà réalisé une maison connecté, ma
 [Voir code des ouvertures de la maison](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/src/codeArduinoOuvertures.md)  
 
 [Voir code de l'application](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/src/codeApplication.md)
-  
+
 ## Prix des éléments
 [Voir le prix des éléments de la maquette](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/prix.md)
