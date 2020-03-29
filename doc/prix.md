@@ -30,7 +30,7 @@ Ce document permet de détailler les achats pour ce projet
 
 # Note importante
 
-Dans ces tableaux est compté simplement les éléments que nous avons utilisé dans le projet.  
+Dans ces tableaux sont comptés simplement les éléments que nous avons utilisé dans le projet.  
 En effet, plusieurs éléments ont été reçu en plus grande quantité, mais nous vous présentons simplement ce que nous avons utilisé afin de s'approcher au maximum du prix réel de la maquette.  
 
 De plus, nous avions déjà certains matériaux comme le fil, les patins de chaises en feutre, les stylos ou encore le silicone.
