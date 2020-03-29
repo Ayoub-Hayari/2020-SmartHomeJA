@@ -28,6 +28,13 @@ Ce document permet de détailler les achats pour ce projet
 |Colle|3|4.50€|
 |**TOTAL**||
 
+# Prix des outils
+
+| Outils | Quantité | Prix du lot |
+|:-------|:--------:|------------:|
+|Fer à souder|1|8.99€|
+
+
 # Note importante
 
 Dans ces tableaux sont comptés simplement les éléments que nous avons utilisé dans le projet.  
@@ -36,3 +43,4 @@ En effet, plusieurs éléments ont été reçu en plus grande quantité, mais no
 De plus, nous avions déjà certains matériaux comme le fil, les patins de chaises en feutre, les stylos ou encore le silicone.
 Plus généralement, tous les composants présents dans la page [composants.md](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/composants.md) et qui ne sont pas dans les tableaux sont des composants que nous possédions déjà.
 
+En ce qui concerne les outils, nous avons simplement acheté un fer à souder. Tous les autres outils notifiés dans la section **_Etape 1 : Préparation du matériel_** de la page [avancement.md](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/avancement.md) étaient déjà en notre possession.
