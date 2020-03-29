@@ -87,7 +87,7 @@ Notons que d'autres groupes de IOT ont déjà réalisé une maison connecté, ma
  
 ## Les composants 
 
-Afin de réaliser nous avons utilisé des composants électroniques mais aussi des matériaux de constructions.
+Afin de réaliser ce projet, nous avions besoin de composants électroniques mais aussi de matériaux de constructions.
 
 [Voir les composants](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/composants.md)
 
@@ -110,4 +110,5 @@ Afin de réaliser nous avons utilisé des composants électroniques mais aussi d
 [Voir code de l'application](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/src/codeApplication.md)
 
 ## Prix des éléments
+
 [Voir le prix des éléments de la maquette](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/prix.md)
