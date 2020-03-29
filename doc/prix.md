@@ -17,15 +17,15 @@ Ce document permet de détailler les achats pour ce projet
 
 | Matériaux | Quantité | Prix du lot |
 |:-----------|:--------:|-----------:|
+|Peinture|1|29.99€|
 |Planches agglomérées|3|29.50€|
 |Herbe synthétique|1|13.39€|
+|Boîtes de Boulons, vis et rondelles|4|12.00€|
+|Pâte à bois|1|9.80€|
 |Lot d'engrenages|1|7.99€|
+|Equerres|40|7.20€|
 |Sachet de briques en pierre rouge|1|4.95€|
-|Peinture|||
-|Colle|||
-|Pâte à bois|||
-|Equerres|||
-|Boîtes de Boulons, vis et rondelles|4||
+|Colle|3|4.50€|
 |**TOTAL**||
 
 # Note importante
