@@ -26,13 +26,14 @@ Ce document permet de détailler les achats pour ce projet
 |Equerres|40|7.20€|
 |Sachet de briques en pierre rouge|1|4.95€|
 |Colle|3|4.50€|
-|**TOTAL**||
+|**TOTAL**||119.32€|
 
 # Prix des outils
 
 | Outils | Quantité | Prix du lot |
 |:-------|:--------:|------------:|
 |Fer à souder|1|8.99€|
+|**TOTAL**||8.99€|
 
 
 # Note importante
