@@ -80,6 +80,7 @@ Notons que d'autres groupes de IOT ont déjà réalisé une maison connecté, ma
 ## Diagramme de Gantt
 
  <img src="./doc/img/Diagramme_Gantt.png" alt=""/>
+
 ## Diagramme de navigation de l'application Android
 
  <img src="./doc/img/navigationUML.png" alt=""/>  
