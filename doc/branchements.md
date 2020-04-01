@@ -1,4 +1,4 @@
-Ce document traite des branchements de la "Maison connectée. (Version du 25/03/2020)
+Ce document traite des branchements de la "Maison connectée.
 
 Notre projet se compose de deux Elegoo Mega 2560 r3 (compatible avec Arduino) autour desquels s'organisent les branchements. 
 
