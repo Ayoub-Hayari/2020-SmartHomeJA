@@ -1,4 +1,4 @@
-Ce document traite de l'état d'avancement du projet de la "Maison connectée" depuis son commencement. (Version du 25/03/2020)
+Ce document traite de l'état d'avancement du projet de la "Maison connectée" depuis son commencement.
 
 # Etape 1 : Préparation du matériel
 	
