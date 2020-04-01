@@ -76,6 +76,9 @@ L'étage supérieur permet de voir toutes les actions. Le sol de l'étage peut s
 	- Une cuisine;
 	- Un jardin.
 	
+ <img src="./img/plan_maquette.jpg" alt=""/>
+
+	
 # Etape 3 : Construction de la maquette:
 
 - A : La maison : 
