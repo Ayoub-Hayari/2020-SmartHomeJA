@@ -1,6 +1,4 @@
-(version non finale du code)
-
-Code Arduino Mega 2 gérant l'application Android (lumières et arrosage automatique), le système de gestion d'humidité et de température et l'arlarme connectée
+Code de l'Arduino Mega 2 gérant l'application Android (lumières et arrosage automatique), le système de gestion d'humidité et de température et l'arlarme connectée
 
 ```C
 // On inclut les biblithèques nécessaires
