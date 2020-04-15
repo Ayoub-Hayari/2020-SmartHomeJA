@@ -1,4 +1,6 @@
-# Maison connectée 
+# Maison connectée  
+
+ <img src="./doc/img/construction7.png" alt=""/>
 
 ## Description du projet
 
