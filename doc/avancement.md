@@ -132,7 +132,16 @@ Nous avons fixé tous les composants dans la partie basse de la maison.
 
 <img src="./img/img2.jpg" alt=""/>
 
-# Etape 8 : Tester les fonctionnalités :
+# Etape 8 : Installation de décors (PlayMobile)
+
+Afin d'avoir un rendu plus esthétique, nous avons ajouté à la maquette de nombreux décors.  
+
+<img src="./img/construction9.png" alt=""/>
+
+<img src="./img/construction11.png" alt=""/>
+
+
+# Etape 9 : Tester les fonctionnalités :
 
 Nous avons effectué une longue période de tests. Ces tests imposaient de vérifier toutes les fonctionnalités et tous les scénarios possibles de notre projet.   
 	  
@@ -140,4 +149,4 @@ A la suite de ces tests, nous avons décelé des dysfonctionnements  que nous av
 
 De plus, nous avons configuré grâce à ces tests les moteurs pas à pas. En effet, il fallait configurer le temps d'action de chaque moteur en fonction de leur utilité. Par exemple, la porte d'entrée n'a pas le même temps de fonctionnement que le portail. 
 
- [Voir les étapes jour par jour de la construction de la maquette (Etapes : 3,4,5 et 7)](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/construction_maquette.md)
+ [Voir les étapes jour par jour de la construction de la maquette (Etapes : 3, 4, 5, 7 et 8)](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/construction_maquette.md)
