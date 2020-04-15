@@ -38,9 +38,20 @@ Après l'achat des matériaux, on commence à construire la maison.
 
 <img src="./img/construction6.png" alt=""/>
 
+## Jour 10
+
+- Installation des décors PlayMobile  
+
+<img src="./img/construction7.png" alt=""/>  
+<img src="./img/construction8.png" alt=""/>  
+<img src="./img/construction9.png" alt=""/>  
+<img src="./img/construction10.png" alt=""/>  
+<img src="./img/construction11.png" alt=""/>  
+
+
 ## Notes importantes
 
-Au rythme de 10 heures de travail par jour, nous arrivons à 90 heures de temps de travail pour la construction de la maquette.
+Au rythme de 10 heures de travail par jour, nous arrivons à 100 heures de temps de travail pour la construction de la maquette.
 
 Il est important de noter que la construction de la maquette est la 'partie visible de l'iceberg'.   
 En effet, nous ne comptons pas dans cette construction les étapes de conceptions, d'achats des matériaux, de développement du code, de développement de l'application et de l'ensemble des tests et correctifs effectués.
