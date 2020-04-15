@@ -34,4 +34,6 @@
 - Equerres en acier;
 - Gazon synthétique;
 - Brique de pierres rouge;
-- Boulons, vis, rondelles, clous et de l'étain.
+- Boulons, vis, rondelles, clous et de l'étain;
+- Double-face;
+- Jouets PlayMobile.
