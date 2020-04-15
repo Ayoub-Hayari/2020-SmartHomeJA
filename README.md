@@ -79,7 +79,9 @@ Notons que d'autres groupes de IOT ont déjà réalisé une maison connecté, ma
  
 ## Diagramme de Gantt
 
- <img src="./doc/img/Diagramme_Gantt.png" alt=""/>
+ <img src="./doc/img/Diagramme_Gantt.png" alt=""/>   
+ 
+Ce projet représente environ 184 heures de travail. Dans ces 184 heures, nous avons 100 heures pour la construction de la maquette, 79 heures de développement du code des microcontroleurs, de l'application Android, des les fonctionnalités embarquées et de la modélisation des branchements (Fritzing) du projet et 5 heures pour la conception et l'achat des matériaux.
 
 ## Diagramme de navigation de l'application Android
 
