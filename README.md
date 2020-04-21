@@ -14,7 +14,7 @@ La maison intelligente a pour objectif de faciliter les actions du quotidien, d'
 
 ## Etat de l'art
   
-Aujourd'hui, le marché de la maison connectée est en plein essor. On estime à **2 milliard d'euros le chiffre d'affaire** engendré par les objets connectés dans les maisons en France avec par exemple 650 millions d'euros rien que pour l'électroménagers intelligents. Les objets connectées représente **5,2 millions d'objets** installés dans les maisons françaises. Ces données suivent une progression à deux chiffres.  
+Aujourd'hui, le marché de la maison connectée est en plein essor. On estime à **2 milliard d'euros le chiffre d'affaire** engendré par les objets connectés dans les maisons en France avec par exemple 650 millions d'euros rien que pour l'électroménagers intelligents. Les objets connectés représente **5,2 millions d'objets** installés dans les maisons françaises. Ces données suivent une progression à deux chiffres.  
 
  <img src="./doc/img/croissanceMaisonConnectee.png" alt=""/>
   
