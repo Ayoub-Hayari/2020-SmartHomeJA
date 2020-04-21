@@ -31,8 +31,25 @@ Ce boom des objets connectés dans les maisons à contraint de mettre en place d
   Nous proposons donc de réaliser une maquette d'une maison connectée. Cette maquette permettra de gérer son portail, ses portes d'entrées, sa lumière, son arrosage automatique, ses volets, son chauffage, son alarme….
 	
   Aujourd'hui, le coût des objets connectés dépasse rarement le millier d'euro individuellement. En effet, une bonne alarme connectée coûte mille euros, une lampe connectée 100€, un portail électrique 400€ ou encore des volets électriques 200€ par volet.  
- 
-Mit bout à bout les dépenses augmentent très vite, mais un individu peut décider de prioriser certains objets connectés par rapport à d'autre. En effet, certaine personne n'ont pas le besoin ou l'envie d'un portail connecté, par exemple.
+  
+### Intégration de nos fonctionnalités à votre habitation
+
+Le but d'un tel projet est qu'il soit transposé à la réalité. De ce fait, toutes nos fonctionnalités sont intégrables et transposables à votre habitation.  
+Afin de vous guidez, nous vous présentons ce que vous pouvez trouver dans le commerce par rapport aux fonctionnalités que nous avons intégré à notre maquette.
+
+| Composants              				| Prix moyen (TTC)|
+| :----------------------------------------------------:|:---------------:|
+| Motorisation de portail 				| 450€            |
+| Motorisation porte de garage       			| 225€     	  | 
+| Lecteur de badges et motorisation de porte entrée     | 265€            |
+| Motorisation volet					| 200€/volet	  |
+| Alarme 						| 800€		  |
+| Climatisation						| 900€    	  |
+| VMC							| 150€            |
+| Arrosage automatique (avec application)		| 300€		  |
+| Eclairage (avec application) 				| 35€/ampoule     |
+
+Notons que les prix varient en fonction des enseignes. Mise bout à bout les dépenses augmentent très vite, mais un individu peut décider de prioriser certains objets connectés par rapport à d'autre. Par exemple, quelqu'un qui vit dans un appartement n'aura pas forcement besoin d'un portail automatique.
 
 ## Etude fonctionnelle
 
@@ -143,28 +160,6 @@ Notre maison a d'autres systèmes permettant d'amener du confort, de la praticit
 
 Ainsi notre maison connectée intègre des systèmes qui vont amenés de la praticité (avec l'automatisation des ouvertures et l'application Android), de la sécurité (avec l'alarme) et du confort (avec la climatisation) à ses propriétaires.
 
-<iframe width="420" height="345" src="https://www.youtube.com/watch?v=YRuSDZIuBYg">
-</iframe>
+## Notre maison connectée en vidéo  
 
-## Intégration de nos fonctionnalités à votre habitation
-
-Le but d'un tel projet est qu'il soit transposé à la réalité. De ce fait, toutes nos fonctionnalités sont intégrables et transposables à votre habitation.  
-Afin de vous guidez, nous vous présentons ce que vous pouvez trouver dans le commerce par rapport aux fonctionnalités que nous avons intégré à notre maquette.
-
-| Composants              				| Prix moyen (TTC)|
-| :----------------------------------------------------:|:---------------:|
-| Motorisation de portail 				| 450€            |
-| Motorisation porte de garage       			| 225€     	  | 
-| Lecteur de badges et motorisation de porte entrée     | 265€            |
-| Motorisation volet					| 200€/volet	  |
-| Alarme 						| 800€		  |
-| Climatisation						| 900€    	  |
-| VMC							| 150€            |
-| Arrosage automatique (avec application)		| 300€		  |
-| Eclairage (avec application) 				| 35€/ampoule     |
-
-Notons que les prix varient en fonction des enseignes. Un propriétaire peut choisir de prioriser certaines fonctionnalités à d'autre s'il en a pas l'utilité.   
-Par exemple, quelqu'un qui vit dans un appartement n'aura pas forcement besoin d'un portail automatique.
-
-
-
+[Voir la vidéo de notre maquette](https://www.youtube.com/watch?v=YRuSDZIuBYg)  
