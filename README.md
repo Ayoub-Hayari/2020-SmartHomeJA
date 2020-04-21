@@ -143,6 +143,8 @@ Notre maison a d'autres systèmes permettant d'amener du confort, de la praticit
 
 Ainsi notre maison connectée intègre des systèmes qui vont amenés de la praticité (avec l'automatisation des ouvertures et l'application Android), de la sécurité (avec l'alarme) et du confort (avec la climatisation) à ses propriétaires.
 
+<iframe width="425" height="349" src="https://www.youtube.com/watch?v=YRuSDZIuBYg" frameborder="0" allowfullscreen></iframe> 
+
 ## Intégration de nos fonctionnalités à votre habitation
 
 Le but d'un tel projet est qu'il soit transposé à la réalité. De ce fait, toutes nos fonctionnalités sont intégrables et transposables à votre habitation.  
