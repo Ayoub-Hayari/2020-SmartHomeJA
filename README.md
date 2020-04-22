@@ -2,11 +2,11 @@
 
 Ce projet  a été réalisé par Ammar ALSADIK (11601920) et Julian CHAMBRIER (11601367).
 
-## Notre maison connectée en vidéo  
+ <img src="./doc/img/construction7.png" alt=""/>
+ 
+ ## Notre maison connectée en vidéo  
 
 [Voir la vidéo de notre maquette](https://www.youtube.com/watch?v=YRuSDZIuBYg)  
-
- <img src="./doc/img/construction7.png" alt=""/>
 
 ## Description du projet
 
