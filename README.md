@@ -59,24 +59,24 @@ Aujourd'hui beaucoup de personnes désirent une maison connectée. On ne déroge
 
 Cette idée est venue de notre quotidien. 
 
-En effet, nous avons tous envie d'appuyer sur un simple bouton pour ouvrir notre portail, d'être rassuré quant à la sécurisation de notre maison lorsque nous sortons de chez nous, de reduire notre impact écologique et énergétique ou encore de gérer différents systèmes à distance.   
+En effet, nous avons tous envie d'appuyer sur un simple bouton pour ouvrir notre portail, d'être rassuré quant à la sécurisation de notre maison lorsque nous sortons de chez nous, de réduire notre impact écologique et énergétique ou encore de gérer différents systèmes à distance.   
 
-C'est dans cette idée que nous avons voulu contruire notre propre maison connectée.  
+C'est dans cette idée que nous avons voulu construire notre propre maison connectée.  
 
 ### Les débouchés
 
 C'est donc à partir de ces observations que nous avons commencé à regarder ce qu'on aimerait intégrer dans notre projet.
-On voulais pouvoir gérer facilement et rapidement les ouvertures, intégrer des choses originales comme un arrosage automatique piloté avec une application Android, ou encore amener du confort à l'habitation.  
+On voulait pouvoir gérer facilement et rapidement les ouvertures, intégrer des choses originales comme un arrosage automatique piloté avec une application Android, ou encore amener du confort à l'habitation.  
 
 De plus, on voulait réaliser des choses qui serait reproductible à l'échelle humaine. Ainsi, il faut avoir une vision humaine. En effet, la plupart d'entre nous ne veulent pas qu'une fonctionnalité soit trop onéreuse ou trop complexe à mettre en place.
 
-Il a fallu donc refléchir à ces apects avant de nous lancer dans le projet.
+Il a fallu donc réfléchir à ces aspects avant de nous lancer dans le projet.
 
 ## Nos objectifs 
 	
 Afin de réaliser la maquette nous allons utiliser des composants très peu onéreux et donc accessibles de tous.  
 	
-Notons que d'autres groupes de IOT ont déjà réalisé une maison connecté, mais nous choisissons de ne pas s'inspirer de leur projet afin de proposer un projet personnel.   
+Notons que d'autres groupes d'IOT ont déjà réalisé une maison connectée, mais nous choisissons de ne pas s'inspirer de leur projet afin de proposer un projet personnel.   
   
  Afin d'effectuer ce projet, nous allons mettre en place :
  
@@ -87,7 +87,7 @@ Notons que d'autres groupes de IOT ont déjà réalisé une maison connecté, ma
 	- Deux volets automatiques et intelligents;
 	- Une porte d'entrée automatique et sécurisé;
 	- Une alarme connectée;
-	- Un système de régulagtion d'humidité et de température;
+	- Un système de régulation d'humidité et de température;
 	- Un système de gestion de l'éclairage et de l'arrosage automatique via une application Android.
 	
 ## Modélisation
@@ -100,7 +100,7 @@ Notons que d'autres groupes de IOT ont déjà réalisé une maison connecté, ma
 
  <img src="./doc/img/Diagramme_Gantt.png" alt=""/>   
  
-Ce projet représente environ 184 heures de travail. Dans ces 184 heures, nous avons 100 heures pour la construction de la maquette, 79 heures de développement du code des microcontroleurs, de l'application Android, des les fonctionnalités embarquées et de la modélisation des branchements (Fritzing) du projet et 5 heures pour la conception et l'achat des matériaux.
+Ce projet représente environ 184 heures de travail. Dans ces 184 heures, nous avons 100 heures pour la construction de la maquette, 79 heures de développement du code des microcontrôleurs, de l'application Android, des les fonctionnalités embarquées et de la modélisation des branchements (Fritzing) du projet et 5 heures pour la conception et l'achat des matériaux.
 
 ## Diagramme de navigation de l'application Android
 
@@ -140,26 +140,26 @@ La version finale de notre maquette de la maison connectée intègre plusieurs f
 
 ### Les ouvertures 
 
-Toutes les ouvertures de notre maquette sont automatisées. Elles fonctionnent toutes avec un moteur pas à pas et grâce au controle du microcontrôleur.
+Toutes les ouvertures de notre maquette sont automatisées. Elles fonctionnent toutes avec un moteur pas à pas et grâce au contrôle du microcontrôleur.
 
 - **Le portail** : il fonctionne grâce à une télécommande infrarouge, un récepteur infrarouge et une led. Lorsque l'utilisateur appuie sur la flèche de droite de la télécommande le portail s'ouvre et si l'utilisateur appuie sur la flèche de gauche le portail se ferme. Durant le mouvement du portail, une led clignote afin d'avertir son utilisateur que le portail est en mouvement.  
-- **La porte de garage** : elle fonctionne grâce à une télécommande et un recepteur tout deux infrarouges. Lorsque l'utilisateur appuie sur la flèche du haut de la télécommande la porte de garage s'ouvre et si l'utilisateur appuie sur la flèche du bas la porte de garage se ferme.
+- **La porte de garage** : elle fonctionne grâce à une télécommande et un récepteur tout deux infrarouges. Lorsque l'utilisateur appuie sur la flèche du haut de la télécommande la porte de garage s'ouvre et si l'utilisateur appuie sur la flèche du bas la porte de garage se ferme.
 - **La porte d'entrée** : elle fonctionne avec un module RFID, un badge et deux leds. Lorsque l'utilisateur passe un badge valide (reconnu par le lecteur) la porte s'ouvre/se ferme et une led verte s'allume. Si le badge n'est pas reconnu, c'est que l'utilisateur n'a pas l'autorisation d'entrer, ainsi la porte ne s'ouvre/se ferme pas et un led rouge suivi d'un **_bip_** du buzzer. De ce fait, elle est automatisée (elle s'ouvre/se ferme toute seule) et sécurisée (elle filtre les entrées dans la maison).
-- **Les volets** : ils fonctionnent avec une télécommande infrarouge et un recpeteur infrarouge. Lorsque l'utilisateur veut ouvrir ses volets, il appuie sur la **_touche 1_** pour celui de la chambre et **_touche 3_** pour celui de la cuisine. S'il veut les fermer, il appuie sur la **_touche 7_** pour celui de la chambre et **_touche 9_** pour celui de la cuisine. De plus, si les volets sont ouverts et que la nuit commence à tomber, ils se ferment automatiquement affin de conserserver la chaleur dans la maison. Cela permet d'avoir une maison plus économe en energie.
+- **Les volets** : ils fonctionnent avec une télécommande infrarouge et un récepteur infrarouge. Lorsque l'utilisateur veut ouvrir ses volets, il appuie sur la **_touche 1_** pour celui de la chambre et **_touche 3_** pour celui de la cuisine. S'il veut les fermer, il appuie sur la **_touche 7_** pour celui de la chambre et **_touche 9_** pour celui de la cuisine. De plus, si les volets sont ouverts et que la nuit commence à tomber, ils se ferment automatiquement afin de conserver la chaleur dans la maison. Cela permet d'avoir une maison plus économe en énergie.
 
 ### Les systèmes intelligents  
 
 Notre maison a d'autres systèmes permettant d'amener du confort, de la praticité et de la sécurité à ses propriétaires.
 
-- **L'alarme connectée** : elle fonctionne grâce à une module LCD, un pavé numérique, des leds et un buzzer. Lorque l'utilisateur souhaite l'activée, il appuie sur le bouton **A** (comme Activation). De ce fait, l'alarme s'arme après 3 secondes, et une led rouge s'allume. Si un mouvement est détecté alors que l'alarme est armée, une led jaune signifiant un mouvement s'allume et elle se déclenche en faisant sonner un buzzer. Pour la désactiver, il suffit d'entrer le bon mot de passe (par défaut 1234), ce qui entrainera la désactivation du buzzer (s'il sonne) et la led verte s'allumera. La touche **C** (comme Clean) permet d'effacer l'entrée en cas d'erreur de saisie sur le pavé numérique. Notons que les leds (verte et rouge) correspondent à l'état de l'alarme, si la led verte est allumée, l'alarme est désactivée, si la led rouge est allumée, elle est activée, si les deux sont allumées, l'alarme est en activation/désactivation. L'écran LCD affiche l'état de l'alarme (activé ou désactivé) et **_code erroné_** en cas d'erreur de saisie de l'utilisateur.
-- **Le système de régulation de la température/humidité** : il fonctionne grâce à un module LCD, une capteur DHT11 de température et d'humidité et un ventilateur (moteur DC avec palme). Ce système est entièrement autonome. Si la température dépasse 30°C ou l'humidité dépasse 65%, le ventilateur s'actionne afin de réguler ces données. Lorsque ces valeurs sont sous leur seuil, la ventilation s'arrête. C'est une sorte de climatisation et de ventilation mécanique controlée (VMC). Le module LCD permet d'affiché, en temps réel, la témpérature et l'humidité dans la maison.
+- **L'alarme connectée** : elle fonctionne grâce à une module LCD, un pavé numérique, des leds et un buzzer. Lorsque l'utilisateur souhaite l'activée, il appuie sur le bouton **A** (comme Activation). De ce fait, l'alarme s'arme après 3 secondes, et une led rouge s'allume. Si un mouvement est détecté alors que l'alarme est armée, une led jaune signifiant un mouvement s'allume et elle se déclenche en faisant sonner un buzzer. Pour la désactiver, il suffit d'entrer le bon mot de passe (par défaut 1234), ce qui entrainera la désactivation du buzzer (s'il sonne) et la led verte s'allumera. La touche **C** (comme Clean) permet d'effacer l'entrée en cas d'erreur de saisie sur le pavé numérique. Notons que les leds (verte et rouge) correspondent à l'état de l'alarme, si la led verte est allumée, l'alarme est désactivée, si la led rouge est allumée, elle est activée, si les deux sont allumées, l'alarme est en activation/désactivation. L'écran LCD affiche l'état de l'alarme (activé ou désactivé) et **_code erroné_** en cas d'erreur de saisie de l'utilisateur.
+- **Le système de régulation de la température/humidité** : il fonctionne grâce à un module LCD, une capteur DHT11 de température et d'humidité et un ventilateur (moteur DC avec palme). Ce système est entièrement autonome. Si la température dépasse 30°C ou l'humidité dépasse 65%, le ventilateur s'actionne afin de réguler ces données. Lorsque ces valeurs sont sous leur seuil, la ventilation s'arrête. C'est une sorte de climatisation et de ventilation mécanique contrôlée (VMC). Le module LCD permet d'affiché, en temps réel, la témpérature et l'humidité dans la maison.
 - **L'application Android** : 
 	- **Généralité** : cette application existe pour Smartphone et pour tablette. Elle fonctionne avec une communication Bluetooth. Elle va permettre à son utilisateur de se connecter aux systèmes de sa maison. Pour se connecter à sa maison, il suffit d'appuyer sur le bouton en haut à gauche (bouton Bluetooth) et de choisir le bon module Bluetooth (00:14:03:05:5A:71 HC-06). Dans ce cas le message **_Bluetooth non connecté_** écrit en rouge passe au message **_Bluetooth connecté_** écrit en vert. L'utilisateur peut ainsi effectuer les actions fournies par l'application. Pour se déconnecter, il appuie sur le bouton en haut à droite (bouton porte de sortie), ce qui déconnectera le module Bluetooth et l'application. Dans ce cas le message **_Bluetooth connecté_** écrit en vert passe au message **_Bluetooth non connecté_** écrit en rouge. L'application permet aussi de gérer la reconnaissance vocale grâce au bouton en haut au milieu (bouton micro). Ainsi l'utilisateur a le choix entre appuyer sur un bouton ou parler pour faire une action. De plus, sur l'écran d'accueil de l'application, la température et l'humidité de la maison sont affichées. Cela permet aux habitants de connaître ces valeurs partout dans sa maison.
-	- **Pour l'éclairage** : L'application permet de controler les éclairages de toutes les zones de la maison (jardin, garage, salon, cuisine et chambre). Pour allumer une zone l'utilisateur appuie sur le bouton correspondant à la bonne zone ou appuie sur le bouton de reconnaissance vocale et dit **_Allumer nom_de_la_zone_** (ex: Allumer jardin). Pour éteindre une zone l'utilisateur appuie sur le bouton correspondant à la bonne zone ou appuie sur le bouton de reconnaissance vocale et dit **_Eteindre nom_de_la_zone_** (ex: Eteindre jardin). L'utilisateur peut aussi dire **_Eteindre tout_** ou appuyer sur le bouton **_Eteindre tout_** de l'application, ce qui aura pour conséquence d'éteindre toutes les zones encore allumées de la maison.
-	- **Pour l'arrosage** : L'application permet aussi de controler l'arrosage automatique de la maison. Il fonctionne grâce à une pompe à eau. Il est activé comme pour l'éclairage de la maison, soit avec un bouton directement sur l'application soit par reconnaissance vocale. Si l'utilisateur dit **_Allumer arrosage_** ou **_Eteindre arrosage_**, l'arrosage automatique va s'activer/ se désactiver. L'eau qui sort de l'arrosage est puissé directement dans un reservoir, parcourt une canalisation et se déverse dans le reservoir. On a donc un système en série.
+	- **Pour l'éclairage** : L'application permet de contrôler les éclairages de toutes les zones de la maison (jardin, garage, salon, cuisine et chambre). Pour allumer une zone l'utilisateur appuie sur le bouton correspondant à la bonne zone ou appuie sur le bouton de reconnaissance vocale et dit **_Allumer nom_de_la_zone_** (ex: Allumer jardin). Pour éteindre une zone l'utilisateur appuie sur le bouton correspondant à la bonne zone ou appuie sur le bouton de reconnaissance vocale et dit **_Eteindre nom_de_la_zone_** (ex: Eteindre jardin). L'utilisateur peut aussi dire **_Eteindre tout_** ou appuyer sur le bouton **_Eteindre tout_** de l'application, ce qui aura pour conséquence d'éteindre toutes les zones encore allumées de la maison.
+	- **Pour l'arrosage** : L'application permet aussi de contrôler l'arrosage automatique de la maison. Il fonctionne grâce à une pompe à eau. Il est activé comme pour l'éclairage de la maison, soit avec un bouton directement sur l'application soit par reconnaissance vocale. Si l'utilisateur dit **_Allumer arrosage_** ou **_Eteindre arrosage_**, l'arrosage automatique va s'activer/ se désactiver. L'eau qui sort de l'arrosage est puisé directement dans un réservoir, parcourt une canalisation et se déverse dans le réservoir. On a donc un système en série.
 
 Ainsi notre maison connectée intègre des systèmes qui vont amenés de la praticité (avec l'automatisation des ouvertures et l'application Android), de la sécurité (avec l'alarme) et du confort (avec la climatisation) à ses propriétaires.
 
 ## Notre maison connectée en vidéo  
 
-[Voir la vidéo de notre maquette](https://www.youtube.com/watch?v=YRuSDZIuBYg)  
+[Voir la vidéo de notre maquette](https://www.youtube.com/watch?v=YRuSDZIuBYg)  	
