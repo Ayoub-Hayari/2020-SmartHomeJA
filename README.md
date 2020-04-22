@@ -2,6 +2,10 @@
 
 Ce projet  a été réalisé par Ammar ALSADIK (11601920) et Julian CHAMBRIER (11601367).
 
+## Notre maison connectée en vidéo  
+
+[Voir la vidéo de notre maquette](https://www.youtube.com/watch?v=YRuSDZIuBYg)  
+
  <img src="./doc/img/construction7.png" alt=""/>
 
 ## Description du projet
@@ -162,6 +166,4 @@ Notre maison a d'autres systèmes permettant d'amener du confort, de la praticit
 
 Ainsi notre maison connectée intègre des systèmes qui vont amenés de la praticité (avec l'automatisation des ouvertures et l'application Android), de la sécurité (avec l'alarme) et du confort (avec la climatisation) à ses propriétaires.
 
-## Notre maison connectée en vidéo  
-
-[Voir la vidéo de notre maquette](https://www.youtube.com/watch?v=YRuSDZIuBYg)  	
+	
