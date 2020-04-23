@@ -11,7 +11,7 @@ Ce document permet de détailler les achats pour ce projet
 |HC-06|1|8.49€|Amazon|
 |Leds blanche|17|7.65€|Amazon|
 |Relais|1|1.60€|Amazon|
-|**TOTAL**|||108€|
+|**TOTAL**||108€||
 
 # Prix des matériaux
 
@@ -27,7 +27,7 @@ Ce document permet de détailler les achats pour ce projet
 |Sachet de briques en pierre rouge|1|4.95€|Amazon|
 |Colle|3|4.50€|Action|
 |Bidon de lessive|1|Gratuit|Carrefour|
-|**TOTAL**|||119.32€|
+|**TOTAL**||119.32€||
 
 # Prix des outils
 
