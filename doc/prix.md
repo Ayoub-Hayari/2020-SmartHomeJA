@@ -2,31 +2,32 @@ Ce document permet de détailler les achats pour ce projet
 
 # Prix des composants électroniques
 
-| Composants | Quantité | Prix du lot |
-|:-----------|:--------:|------------:|
-|Kit Elegoo compatible Arduino|1|49.99€|
-|Câbles|200|15.08€|
-|Microcontrôleurs Elegoo Mega 2560 r3|1| 13.99€|
-|Moteurs pas à pas|4|11.20€|
-|HC-06|1|8.49€|
-|Leds blanche|17|7.65€|
-|Relais|1|1.60€|
-|**TOTAL**||108€|
+| Composants | Quantité | Prix du lot | Magasin |
+|:-----------|:--------:|------------:|:--------:|
+|Kit Elegoo compatible Arduino|1|49.99€|Amazon|
+|Câbles|200|15.08€|Amazon|
+|Microcontrôleurs Elegoo Mega 2560 r3|1| 13.99€|Amazon|
+|Moteurs pas à pas|4|11.20€|Amazon|
+|HC-06|1|8.49€|Amazon|
+|Leds blanche|17|7.65€|Amazon|
+|Relais|1|1.60€|Amazon|
+|**TOTAL**|||108€|
 
 # Prix des matériaux
 
-| Matériaux | Quantité | Prix du lot |
-|:-----------|:--------:|-----------:|
-|Peinture|1|29.99€|
-|Planches agglomérées|3|29.50€|
-|Herbe synthétique|1|13.39€|
-|Boîtes de Boulons, vis et rondelles|4|12.00€|
-|Pâte à bois|1|9.80€|
-|Lot d'engrenages|1|7.99€|
-|Equerres|40|7.20€|
-|Sachet de briques en pierre rouge|1|4.95€|
-|Colle|3|4.50€|
-|**TOTAL**||119.32€|
+| Matériaux | Quantité | Prix du lot |Magasin|
+|:-----------|:--------:|-----------:|:----:|
+|Peinture|1|29.99€|Castorama/Action|
+|Planches agglomérées|3|29.50€|Castorama|
+|Herbe synthétique|1|13.39€|Amazon|
+|Boîtes de Boulons, vis et rondelles|4|12.00€|Action|
+|Pâte à bois|1|9.80€|Castorama|
+|Lot d'engrenages|1|7.99€|Amazon|
+|Equerres|40|7.20€|Action|
+|Sachet de briques en pierre rouge|1|4.95€|Amazon|
+|Colle|3|4.50€|Action|
+|Bidon de lessive|1|Gratuit|Carrefour|
+|**TOTAL**|||119.32€|
 
 # Prix des outils
 
