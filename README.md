@@ -137,9 +137,9 @@ Afin de réaliser ce projet, nous avions besoin de composants électroniques mai
 
 [Voir code de l'application](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/src/codeApplication.md)
 
-## Prix des éléments
+## Prix et magasins des éléments achetés
 
-[Voir le prix des éléments de la maquette](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/prix.md)
+[Voir le prix/magasins des éléments de la maquette](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/prix.md)
 
 ## Fonctionnalités finales de notre maison connectée  
 
