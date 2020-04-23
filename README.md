@@ -139,7 +139,7 @@ Il va permettre de faire les schémas électroniques des différents branchement
 
 Blender est un logiciel de montage vidéo.  
 Nous avons utilisé la version 2.81, il est téléchargeable gratuitement sur la page [Blender](https://blender.fr.softonic.com/).  
-Il nous a permit de monter la vidéo afin d'intégrer du texte, et mettre deux vidéos sur un même écran en même temps.
+Il nous a permis de monter la vidéo afin d'intégrer du texte, et mettre deux vidéos sur un même écran en même temps.
 
 #### AppInventor
 
