@@ -131,7 +131,7 @@ Pour programmer un microcontrôleur, il suffit d'écrire un programme dans les s
 
 #### Fritzing 
 
-Fritzing est un logiciel téléchargeable gratuitement sur la page [Fritzing](lien https://fritzing.org/home/). Il existe une version payante, mais la version de bae suffit amplement pour l'utilisation qu'on en a faite.  
+Fritzing est un logiciel téléchargeable gratuitement sur la page [Fritzing](https://fritzing.org/home/). Il existe une version payante, mais la version de bae suffit amplement pour l'utilisation qu'on en a faite.  
 
 Il va permettre de faire les schémas électroniques des différents branchements réalisés au cours du projet. Cela va permettre d'avoir à porter de mains les schémas des branchements qui vont permettre de faciliter nos branchements dans la maquette et permettant à chacun de connaître d'un coup d'oeil les branchements sans à avoir à ouvrir la maquette.  
 
