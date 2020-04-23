@@ -119,6 +119,35 @@ Afin de réaliser ce projet, nous avions besoin de composants électroniques mai
 
 [Voir les composants](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/composants.md)
 
+## Les logiciels utilisés  
+
+Pour réaliser ce projet, nous avons utilisé différents logiciels.  
+
+#### IDE Arduino 
+
+L'environnement de développement Arduino permet de faire de la programmation en langage C pour les microcontrôleurs. Il est téléchargeable gratuitemement sur la page [Arduino](https://www.arduino.cc/en/main/software).  
+Nous avons utilisé la dernière version (1.8.12).  
+Pour programmer un microcontrôleur, il suffit d'écrire un programme dans les sections **_Setup_**, pour les initialisations et **_Loop_**, pour le programme qui tourne en boucle à l'allumage de microcontrôleur.  
+
+#### Fritzing 
+
+Fritzing est un logiciel téléchargeable gratuitement sur la page [Fritzing](lien https://fritzing.org/home/). Il existe une version payante, mais la version de bae suffit amplement pour l'utilisation qu'on en a faite.  
+
+Il va permettre de faire les schémas électroniques des différents branchements réalisés au cours du projet. Cela va permettre d'avoir à porter de mains les schémas des branchements qui vont permettre de faciliter nos branchements dans la maquette et permettant à chacun de connaître d'un coup d'oeil les branchements sans à avoir à ouvrir la maquette.  
+
+#### Blender
+
+Blender est un logiciel de montage vidéo.  
+Nous avons utilisé la version 2.81, il est téléchargeable gratuitement sur la page [Blender](https://blender.fr.softonic.com/).  
+Il nous a permit de monter la vidéo afin d'intégrer du texte, et mettre deux vidéos sur un même écran en même temps.
+
+#### AppInventor
+
+AppInventor permet de créer des applications mobiles et tablettes sous Android.  
+Il est accessible depuis la page [AppInventor](https://appinventor.mit.edu/) totalement gratuitement.
+Il évite de longue période de développement, de conception et d'implémentation. Tout est intégré.  
+Ce logiciel a été développé par le MIT et l'implémentation grâce à des blocks est très intuitif et offre une rapidité de prise en main. Il nous a permis de développer nos deux versions de l'application pour notre maquette.
+
 ## Avancement du projet
 
 [Voir l'avancement du projet](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/avancement.md)  
