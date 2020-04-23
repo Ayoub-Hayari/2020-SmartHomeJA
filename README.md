@@ -32,6 +32,10 @@ En Europe, le podium concernant la part des logements équipés d'appareils conn
 
 <img src="./doc/img/chiffresEurope.png" alt=""/>
 
+Le paradoxe est que le chiffre d'affaire engendré par les objets connectés dans les maisons est plus important en France qu'en Suède, comme décrit précédemment. Ceci s'explique avec le nombre d'objets connectés moyen présents dans une maison, plus élevé en France que dans les autres pays d'Europe.
+En 2017, une personne sur trois déclare avoir l'intention d'acheter un objet connecté pour sa maison. Soit 13% de plus que 2016.
+    Les points qui intéressent le plus les gens sont les alarmes connectées notamment avec les caméras intelligentes, l'éclairage pilotable et variable ou encore les systèmes de gestion de la température.
+
 Au vue de la croissance dans ce domaine, de nombreux acteurs proposent de connecter sa maison. Cette connexion passe par tous les objets du quotidien. De ce fait, des entreprises d'électroménagers, de jardinage, de bricolage ou encore d'électronique proposent des produits et services afin de rendre intelligente votre maison. A l'instar de Castorama, Darty ou Verisure  qui proposent respectivement des portails, de l'électroménager et des alarmes connectées.  
 	
 Ce boom des objets connectés dans les maisons à contraint de mettre en place des normes permettant de garantir la sécurité des systèmes ou encore de protéger les données privées. L'organisation internationale de normalisation se charge de mettre en place des nouvelles normes concernant les objets connectés, en particulier des **normes ISO**. Nous avons par exemple la norme ISO/IEC 30141 qui permet d'établir une architecture de référence normalisée de manière internationale. Afin de proposer un vocabulaire commun, des schémas conceptuels réutilisables et les meilleures pratiques du secteur. Ou encore la norme ISO/IEC 27701 garantissant la protection des données personnelles.
