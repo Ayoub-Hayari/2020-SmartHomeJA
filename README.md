@@ -26,14 +26,17 @@ On estime à **30 millions** le nombre de maisons connectées soit **7.1%** des 
 
  <img src="./doc/img/croissanceMaisonConnectee.png" alt=""/>
   
-Dans le monde cela représente un marché entre **50 et 80 Milliards** de chiffre d'affaire pour **20.4 Milliards d'objets connectés** en 2020 selon Gartner.  
+Dans le monde cela représente un marché entre **50 et 80 Milliards** de chiffre d'affaire pour **20.4 Milliards d'objets connectés** en 2020 selon Gartner. 
+
 Les principaux marchés se situent dans les pays développés avec en top position les Etats-Unis, le Japon et l'Allemagne. La France arrive en 5e position. 
+
 En Europe, le podium concernant la part des logements équipés d'appareils connectés est occupé par la Suède, le Danemark et les Pays-Bas. La France arrive en 7e position. 
 
 <img src="./doc/img/chiffresEurope.png" alt=""/>
 
-Le paradoxe est que le chiffre d'affaire engendré par les objets connectés dans les maisons est plus important en France qu'en Suède, comme décrit précédemment. Ceci s'explique avec le nombre d'objets connectés moyen présents dans une maison, plus élevé en France que dans les autres pays d'Europe.
-En 2017, une personne sur trois déclare avoir l'intention d'acheter un objet connecté pour sa maison. Soit 13% de plus que 2016.
+Le paradoxe est que le chiffre d'affaire engendré par les objets connectés dans les maisons est plus important en France qu'en Suède, comme décrit précédemment. Ceci s'explique avec le nombre d'objets connectés moyen présents dans une maison, plus élevé en France que dans les autres pays d'Europe.  
+
+En 2017, une personne sur trois déclare avoir l'intention d'acheter un objet connecté pour sa maison. Soit **13%** de plus que 2016.
     Les points qui intéressent le plus les gens sont les alarmes connectées notamment avec les caméras intelligentes, l'éclairage pilotable et variable ou encore les systèmes de gestion de la température.
 
 Au vue de la croissance dans ce domaine, de nombreux acteurs proposent de connecter sa maison. Cette connexion passe par tous les objets du quotidien. De ce fait, des entreprises d'électroménagers, de jardinage, de bricolage ou encore d'électronique proposent des produits et services afin de rendre intelligente votre maison. A l'instar de Castorama, Darty ou Verisure  qui proposent respectivement des portails, de l'électroménager et des alarmes connectées.  
