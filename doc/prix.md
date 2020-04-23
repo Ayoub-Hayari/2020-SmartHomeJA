@@ -1,6 +1,6 @@
 Ce document permet de détailler les achats pour ce projet
 
-# Prix des composants électroniques
+# Les composants électroniques
 
 | Composants | Quantité | Prix du lot | Magasin |
 |:-----------|:--------:|------------:|:--------:|
@@ -13,7 +13,7 @@ Ce document permet de détailler les achats pour ce projet
 |Relais|1|1.60€|Amazon|
 |**TOTAL**||108€||
 
-# Prix des matériaux
+# Les matériaux
 
 | Matériaux | Quantité | Prix du lot |Magasin|
 |:-----------|:--------:|-----------:|:----:|
@@ -29,7 +29,7 @@ Ce document permet de détailler les achats pour ce projet
 |Bidon de lessive|1|Gratuit|Carrefour|
 |**TOTAL**||119.32€||
 
-# Prix des outils
+# Les outils
 
 | Outils | Quantité | Prix du lot |
 |:-------|:--------:|------------:|
