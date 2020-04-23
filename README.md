@@ -26,9 +26,9 @@ On estime à **30 millions** le nombre de maisons connectées soit **7.1%** des 
 
  <img src="./doc/img/croissanceMaisonConnectee.png" alt=""/>
   
-Dans le monde cela représente un marché entre **50 et 80 Milliards** de chiffre d'affaire.    
-
+Dans le monde cela représente un marché entre **50 et 80 Milliards** de chiffre d'affaire pour **20.4 Milliards d'objets connectés** en 2020 selon Gartner.  
 Les principaux marchés se situent dans les pays développés avec en top position les Etats-Unis, le Japon et l'Allemagne. La France arrive en 5e position.  
+En Europe, le podium concernant la part des logements équipés d'appareils connectés est occupé par la Suède, le Danemark et les Pays-Bas. La France arrive en 7e position.  
 
 Au vue de la croissance dans ce domaine, de nombreux acteurs proposent de connecter sa maison. Cette connexion passe par tous les objets du quotidien. De ce fait, des entreprises d'électroménagers, de jardinage, de bricolage ou encore d'électronique proposent des produits et services afin de rendre intelligente votre maison. A l'instar de Castorama, Darty ou Verisure  qui proposent respectivement des portails, de l'électroménager et des alarmes connectées.  
 	
