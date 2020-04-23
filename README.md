@@ -49,7 +49,7 @@ Ce boom des objets connectés dans les maisons à contraint de mettre en place d
 	
   Aujourd'hui, le coût des objets connectés dépasse rarement le millier d'euro individuellement. En effet, une bonne alarme connectée coûte mille euros, une lampe connectée 100€, un portail électrique 400€ ou encore des volets électriques 200€ par volet.  
   
-### Intégration de nos fonctionnalités à votre habitation
+#### Intégration de nos fonctionnalités à votre habitation
 
 Le but d'un tel projet est qu'il soit transposé à la réalité. De ce fait, toutes nos fonctionnalités sont intégrables et transposables à votre habitation.  
 Afin de vous guidez, nous vous présentons ce que vous pouvez trouver dans le commerce par rapport aux fonctionnalités que nous avons intégré à notre maquette.
