@@ -1,7 +1,8 @@
 # **Fiche personnelle Julian CHAMBRIER**
 
 ### Résumé d'activité
-	Au cours de ce projet, nous avons réalisé une maquette d'une maison connectée. Cette maquette intègre plusieurs fonctionnalités connectées telles qu'un portail automatisé, une alarme connectée ou encore un système intelligent de régulation de la température et de l'humidité.  
+
+Au cours de ce projet, nous avons réalisé une maquette d'une maison connectée. Cette maquette intègre plusieurs fonctionnalités connectées telles qu'un portail automatisé, une alarme connectée ou encore un système intelligent de régulation de la température et de l'humidité.  
   
 La majorité des tâches effectuées ont été réalisées en collaboration. Ces étapes concernent la conception de la maquette, l'achat des matériaux, la construction de la maquette et la première partie de l'installation des branchements dans la partie basse la maquette.  
 Ces tâches sont disponibles [ici](https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/construction_maquette.md) pour les jours 1, 2, 3, 7, 8 et 9.  
