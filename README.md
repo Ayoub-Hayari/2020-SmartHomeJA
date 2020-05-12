@@ -1,6 +1,8 @@
 # Maison connectée  
 
-Ce projet  a été réalisé par Ammar ALSADIK (11601920) et Julian CHAMBRIER (11601367).
+Ce projet  a été réalisé par : 
+- Ammar ALSADIK : ammar_alsadik@yahoo.com (11601920);
+- Julian CHAMBRIER : julianchambrier@hotmail.fr (11601367).
 
  <img src="./doc/img/construction7.png" alt=""/>
  
